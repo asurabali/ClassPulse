@@ -1,3 +1,4 @@
+ HEAD
 # 🎓 ClassPulse — Classroom Analytics System
 
 A production-ready full-stack classroom attendance analytics system with real-time dashboards, trend charts, automated at-risk student alerts, and exportable reports.
@@ -211,3 +212,6 @@ ClassPulse uses a custom dark-mode design system:
 ## 📄 License
 
 MIT License — see the [LICENSE](LICENSE) file for details.
+=======
+# ClassPulse
+>>>>>>> 7b15e6148017a71b62d49f6fa78ee2bd9e0c92ee
