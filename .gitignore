@@ -1,0 +1,28 @@
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Node (if any)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Vendor (if using Composer)
+vendor/
+composer.lock
